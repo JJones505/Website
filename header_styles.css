@@ -1,0 +1,42 @@
+.header_rule {
+    display: block;
+    width: 100%;
+}
+.navbar {
+    float: left;
+    width: 100%;
+    margin-top: 14px;
+    margin-left: 20px;
+    margin-right: 4px;
+    margin-bottom: 14px;
+    background-color: #0F6E4C;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: block;
+}
+.wrapper {
+    margin-left: 30px;
+    margin-top: 49px;
+    margin-bottom: 30px;
+    padding-left: 14px;
+    padding-top: 14px;
+    padding-right: 14px;
+    padding-bottom: 14px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: #00C0C3;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h2 {
+    color: #5587A6;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+footer {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: small;
+    text-align: center;
+    color: #79A4B7;
+    background-color: #0A5967;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
